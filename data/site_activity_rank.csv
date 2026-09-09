@@ -1,0 +1,101 @@
+site,activity_category,total_reports,sif_flagged,sif_density_pct
+Naharkatiya Tank Farm,Line of Fire Exposure,8,8,100.0
+Duliajan Workshop,Electrical Maintenance,4,4,100.0
+Digboi Refinery,Line of Fire Exposure,3,3,100.0
+Duliajan Field,Energy Isolation / LOTO,3,3,100.0
+Naharkatiya Tank Farm,Working at Height,3,3,100.0
+Duliajan Field,Working at Height,2,2,100.0
+Lakwa Gas Plant,Electrical Maintenance,1,1,100.0
+Lakwa Gas Plant,Energy Isolation / LOTO,9,8,88.9
+Lakwa Gas Plant,Working at Height,9,8,88.9
+Numaligarh Terminal,Energy Isolation / LOTO,9,8,88.9
+Jorajan Pipeline ROW,Electrical Maintenance,8,7,87.5
+Numaligarh Terminal,Electrical Maintenance,8,7,87.5
+Moran GGS,Working at Height,7,6,85.7
+Lakwa Gas Plant,Line of Fire Exposure,6,5,83.3
+Naharkatiya Tank Farm,Energy Isolation / LOTO,6,5,83.3
+Duliajan Field,Electrical Maintenance,5,4,80.0
+Jorajan Pipeline ROW,Energy Isolation / LOTO,5,4,80.0
+Naharkatiya Tank Farm,Electrical Maintenance,5,4,80.0
+Lakwa Gas Plant,Hot Work,9,7,77.8
+Moran GGS,Mechanical Lifting,4,3,75.0
+Numaligarh Terminal,Working at Height,4,3,75.0
+Jorajan Pipeline ROW,Mechanical Lifting,7,5,71.4
+Kumchai Compressor Station,Working at Height,7,5,71.4
+Numaligarh Terminal,Confined Space Entry,7,5,71.4
+Barekuri Well Pad,Mechanical Lifting,10,7,70.0
+Jorajan Pipeline ROW,Confined Space Entry,10,7,70.0
+Moran GGS,Confined Space Entry,10,7,70.0
+Numaligarh Terminal,Mechanical Lifting,10,7,70.0
+Digboi Refinery,Working at Height,15,10,66.7
+Barekuri Well Pad,Energy Isolation / LOTO,6,4,66.7
+Duliajan Field,Confined Space Entry,6,4,66.7
+Jorajan Pipeline ROW,Line of Fire Exposure,6,4,66.7
+Numaligarh Terminal,Hot Work,6,4,66.7
+Lakwa Gas Plant,Confined Space Entry,3,2,66.7
+Lakwa Gas Plant,Mechanical Lifting,3,2,66.7
+Barekuri Well Pad,Electrical Maintenance,8,5,62.5
+Kumchai Compressor Station,Mechanical Lifting,8,5,62.5
+Moran GGS,Electrical Maintenance,10,6,60.0
+Digboi Refinery,Mechanical Lifting,5,3,60.0
+Duliajan Workshop,Mechanical Lifting,5,3,60.0
+Kumchai Compressor Station,Electrical Maintenance,5,3,60.0
+Duliajan Workshop,Hot Work,7,4,57.1
+Naharkatiya Tank Farm,Hot Work,7,4,57.1
+Jorajan Pipeline ROW,Hot Work,8,4,50.0
+Kumchai Compressor Station,Confined Space Entry,8,4,50.0
+Kumchai Compressor Station,Hot Work,8,4,50.0
+Naharkatiya Tank Farm,Confined Space Entry,8,4,50.0
+Numaligarh Terminal,Line of Fire Exposure,8,4,50.0
+Barekuri Well Pad,Confined Space Entry,6,3,50.0
+Barekuri Well Pad,Working at Height,6,3,50.0
+Digboi Refinery,Electrical Maintenance,6,3,50.0
+Digboi Refinery,Energy Isolation / LOTO,6,3,50.0
+Jorajan Pipeline ROW,Working at Height,4,2,50.0
+Moran GGS,Energy Isolation / LOTO,4,2,50.0
+Kumchai Compressor Station,Line of Fire Exposure,9,4,44.4
+Duliajan Workshop,Line of Fire Exposure,14,6,42.9
+Duliajan Workshop,Confined Space Entry,7,3,42.9
+Barekuri Well Pad,Line of Fire Exposure,5,2,40.0
+Duliajan Workshop,Energy Isolation / LOTO,5,2,40.0
+Lakwa Gas Plant,Excavation,5,2,40.0
+Duliajan Workshop,Working at Height,8,3,37.5
+Digboi Refinery,Hot Work,7,2,28.6
+Duliajan Field,Mechanical Lifting,7,2,28.6
+Duliajan Field,Line of Fire Exposure,8,2,25.0
+Digboi Refinery,Confined Space Entry,4,1,25.0
+Duliajan Field,Hot Work,4,1,25.0
+Moran GGS,Hot Work,4,1,25.0
+Barekuri Well Pad,Hot Work,5,1,20.0
+Kumchai Compressor Station,Energy Isolation / LOTO,13,2,15.4
+Lakwa Gas Plant,Driving / Vehicle Movement,13,2,15.4
+Jorajan Pipeline ROW,Excavation,11,1,9.1
+Barekuri Well Pad,Driving / Vehicle Movement,7,0,0.0
+Barekuri Well Pad,Excavation,10,0,0.0
+Barekuri Well Pad,Inspection / Housekeeping,8,0,0.0
+Digboi Refinery,Driving / Vehicle Movement,16,0,0.0
+Digboi Refinery,Excavation,11,0,0.0
+Digboi Refinery,Inspection / Housekeeping,20,0,0.0
+Duliajan Field,Driving / Vehicle Movement,17,0,0.0
+Duliajan Field,Excavation,4,0,0.0
+Duliajan Field,Inspection / Housekeeping,12,0,0.0
+Duliajan Workshop,Driving / Vehicle Movement,17,0,0.0
+Duliajan Workshop,Excavation,8,0,0.0
+Duliajan Workshop,Inspection / Housekeeping,9,0,0.0
+Jorajan Pipeline ROW,Driving / Vehicle Movement,11,0,0.0
+Jorajan Pipeline ROW,Inspection / Housekeeping,13,0,0.0
+Kumchai Compressor Station,Driving / Vehicle Movement,15,0,0.0
+Kumchai Compressor Station,Excavation,9,0,0.0
+Kumchai Compressor Station,Inspection / Housekeeping,15,0,0.0
+Lakwa Gas Plant,Inspection / Housekeeping,17,0,0.0
+Moran GGS,Driving / Vehicle Movement,9,0,0.0
+Moran GGS,Excavation,5,0,0.0
+Moran GGS,Inspection / Housekeeping,13,0,0.0
+Moran GGS,Line of Fire Exposure,2,0,0.0
+Naharkatiya Tank Farm,Driving / Vehicle Movement,14,0,0.0
+Naharkatiya Tank Farm,Excavation,7,0,0.0
+Naharkatiya Tank Farm,Inspection / Housekeeping,9,0,0.0
+Naharkatiya Tank Farm,Mechanical Lifting,2,0,0.0
+Numaligarh Terminal,Driving / Vehicle Movement,15,0,0.0
+Numaligarh Terminal,Excavation,6,0,0.0
+Numaligarh Terminal,Inspection / Housekeeping,19,0,0.0
